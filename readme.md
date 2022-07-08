@@ -9,7 +9,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-RIFAI ADVENTURE is an online shop that serves the sale and purchase of sports equipment (hiking, mountaineering, and those that are still related) besides that we also serve the rental of these sports equipment.
+RIFAI ADVENTURE is an online shop that serves the sale and purchase of sports equipment (hiking, mountaineering, and those that are still related) besides that we also serve the rental of these sports equipment. 
+<br />
+<a href="https://rifai-adventure.netlify.app/">View Demo</a>
 
 
 ### Built With
